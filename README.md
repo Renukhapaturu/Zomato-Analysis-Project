@@ -106,8 +106,3 @@ Interactive dashboards were created to represent insights visually:
 
 ## 🚀 Conclusion
 This project showcases strong foundational skills in **data analytics, SQL querying, data visualization, and business insight generation**. It is designed to reflect real-world analytical thinking and is well-suited for **entry-level Data Analyst and Business Analyst roles**.
-
----
-
-## 📬 Contact
-Feel free to connect with me on **LinkedIn** or explore my other projects on **GitHub**.
